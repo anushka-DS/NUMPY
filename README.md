@@ -18,6 +18,9 @@ Because of these benefits, NumPy is the de facto standard for multidimensional a
 
 ## Useful References
 
-https://numpy.org/doc/stable/user/theory.broadcasting.html#array-broadcasting-in-numpy
-https://realpython.com/how-to-use-numpy-arange/
 https://numpy.org/doc/
+
+https://numpy.org/doc/stable/user/theory.broadcasting.html#array-broadcasting-in-numpy
+
+https://realpython.com/how-to-use-numpy-arange/
+
