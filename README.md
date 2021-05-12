@@ -13,3 +13,11 @@
 **Better quality:** There are thousands of contributors working to keep NumPy fast, friendly, and bug free.
 
 Because of these benefits, NumPy is the de facto standard for multidimensional arrays in Python data science, and many of the most popular libraries are built on top of it. Learning NumPy is a great way to set down a solid foundation as you expand your knowledge into more specific areas of data science.
+
+
+
+## Useful References
+
+https://numpy.org/doc/stable/user/theory.broadcasting.html#array-broadcasting-in-numpy
+https://realpython.com/how-to-use-numpy-arange/
+https://numpy.org/doc/
