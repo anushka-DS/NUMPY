@@ -24,3 +24,8 @@ https://numpy.org/doc/stable/user/theory.broadcasting.html#array-broadcasting-in
 
 https://realpython.com/how-to-use-numpy-arange/
 
+https://www.youtube.com/watch?v=dEzyaIh-7hs - Video tutorial
+
+https://www.youtube.com/watch?v=vN5dAZrS58E - Video tutorial
+
+https://numpy.org/
